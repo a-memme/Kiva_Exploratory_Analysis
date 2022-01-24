@@ -1,6 +1,5 @@
 # Kiva Analysis
-[Link to Tableau Dashboard)
-(https://public.tableau.com/app/profile/andrew8402/viz/KivaLoanAnalysis_16394268628180/Story1)
+[Link to Tableau Dashboard)(https://public.tableau.com/app/profile/andrew8402/viz/KivaLoanAnalysis_16394268628180/Story1)
 
 ## Analysis Overview 
 - Using a dataset of Kiva.org loans issued over a two-year period, the following analysis explores how loans are distributed based on size, frequency, sector, location and theme type to gain further understanding of who, why, and how borrowers are receiving and using their loans.
