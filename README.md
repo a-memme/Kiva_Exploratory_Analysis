@@ -32,6 +32,7 @@ Average loans (USD) as well as total number of loans disbursed were both analyze
 
 #### Table A
 <img width="230" alt="Screen Shot 2021-12-14 at 2 38 00 AM" src="https://user-images.githubusercontent.com/79600550/150734130-3d26e337-308a-4575-8f2d-04bc8a4d3ad6.png">
+
 #### Table B
 <img width="185" alt="Screen Shot 2021-12-14 at 2 37 02 AM" src="https://user-images.githubusercontent.com/79600550/150734156-0085a8f3-64ab-407d-b7b3-4de3f06a3a90.png">
 
