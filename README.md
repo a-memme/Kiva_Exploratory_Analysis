@@ -6,7 +6,7 @@
 - The following analysis dives specifically into average and total loan value by sector. Future analyses will eloborate further on average/total loan value by country, and will explore the implications of predictive analysis on repayment interval percentage. 
 
 ### Dataset
-- Dataset includes loan data from Kiva spanning over the course of 2 years and is derived from Kaggle
+- Kaggle dataset provided by Kiva which includes loan data spanning over a two-year period.
 - [Click here](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding) to view the dataset
 
 ### Relevance 
