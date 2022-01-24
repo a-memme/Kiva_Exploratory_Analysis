@@ -5,6 +5,10 @@
 - Using a dataset of Kiva.org loans issued over a two-year period, the following analysis explores how loans are distributed based on size, frequency, sector, location and theme type to gain further understanding of who, why, and how borrowers are receiving and using their loans.
 - The following analysis dives specifically into average and total loan value by sector. Future analyses will eloborate further on average/total loan value by country, and will explore the implications of predictive analysis on repayment interval percentage. 
 
+### Dataset
+- Dataset includes loan data from Kiva spanning over the course of 2 years and is derived from Kaggle
+- [Click here](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding) to view the dataset
+
 ### Relevance 
 - As a crowdfunding platform dedicated to extending support to financially excluded people across the globe, it is vital for a company such as Kiva to have a consistent and accurate grasp of some of these base concepts in order to help target sectors, communities, or even global locations in a meaningful and effective way.
 
